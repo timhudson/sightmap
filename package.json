@@ -2,9 +2,6 @@
   "name": "sightmap",
   "description": "Generate and cache sitemaps",
   "version": "0.0.0",
-  "repository": {
-    "url": "git://github.com/timhudson/sightmap.git"
-  },
   "main": "index.js",
   "directories" : {
     "example" : "example",
@@ -16,6 +13,15 @@
   "devDependencies": {
     "tap": "~0.2.5"
   },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/timhudson/sightmap.git"
+  },
+  "homepage" : "https://github.com/timhudson/sightmap",
+  "keywords": [
+    "sitemap",
+    "sitemap.xml"
+  ],
   "author" : {
     "name" : "Tim Hudson",
     "email" : "tim.hudson15@gmail.com"
