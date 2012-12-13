@@ -5,7 +5,7 @@ Generate and cache sitemaps
 # example
 
 ``` js
-var sightmap = require('../index.js');
+var sightmap = require('sightmap');
 
 sightmap(['http://sightmap.example.com/1', 'http://sightmap.example.com/2']);
 
