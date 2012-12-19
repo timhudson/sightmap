@@ -2,6 +2,8 @@
 
 Generate and cache sitemaps
 
+[![build status](https://secure.travis-ci.org/timhudson/sightmap.png)](http://travis-ci.org/timhudson/sightmap)
+
 # example
 
 ``` js
